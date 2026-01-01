@@ -86,6 +86,6 @@
 
 ## The trained machine learning model was saved using pickle and integrated into the frontend
 
-🎯 Conclusion
+# 🎯 Conclusion
 
-This Resale Car Price Prediction App demonstrates an end-to-end machine learning workflow, including feature engineering (Car Age & Car Size), model selection, evaluation, and deployment using Streamlit.
+## This Resale Car Price Prediction App demonstrates an end-to-end machine learning workflow, including feature engineering (Car Age & Car Size), model selection, evaluation, and deployment using Streamlit.
